@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SoftUni-ProgrammingBasics\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\_09.Yard_Greening.exe.config
+C:\Users\User\source\repos\SoftUni-ProgrammingBasics\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\_09.Yard_Greening.exe
+C:\Users\User\source\repos\SoftUni-ProgrammingBasics\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\_09.Yard_Greening.pdb
+C:\Users\User\source\repos\SoftUni-ProgrammingBasics\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\09. Yard Greening.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\SoftUni-ProgrammingBasics\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\09. Yard Greening.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni-ProgrammingBasics\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\_09.Yard_Greening.exe
+C:\Users\User\source\repos\SoftUni-ProgrammingBasics\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\_09.Yard_Greening.pdb

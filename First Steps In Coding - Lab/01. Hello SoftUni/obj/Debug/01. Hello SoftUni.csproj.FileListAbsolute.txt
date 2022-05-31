@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\SoftUni-ProgrammingBasics\First Steps In Coding - Lab\01. Hello SoftUni\bin\Debug\_01.Hello_SoftUni.exe.config
+C:\Users\User\source\repos\SoftUni-ProgrammingBasics\First Steps In Coding - Lab\01. Hello SoftUni\bin\Debug\_01.Hello_SoftUni.exe
+C:\Users\User\source\repos\SoftUni-ProgrammingBasics\First Steps In Coding - Lab\01. Hello SoftUni\bin\Debug\_01.Hello_SoftUni.pdb
+C:\Users\User\source\repos\SoftUni-ProgrammingBasics\First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\01. Hello SoftUni.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SoftUni-ProgrammingBasics\First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\01. Hello SoftUni.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\SoftUni-ProgrammingBasics\First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\01. Hello SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni-ProgrammingBasics\First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\_01.Hello_SoftUni.exe
+C:\Users\User\source\repos\SoftUni-ProgrammingBasics\First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\_01.Hello_SoftUni.pdb
