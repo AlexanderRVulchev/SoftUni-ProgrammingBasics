@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Day of Week", "01. Day of Week\01. Day of Week.csproj", "{984DA762-A637-4E54-B1D0-7F8498620996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Weekend or Working Day", "02.Weekend or Working Day\02.Weekend or Working Day.csproj", "{FCD44034-CC30-4A4A-8F92-7DFBC7430EA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{984DA762-A637-4E54-B1D0-7F8498620996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984DA762-A637-4E54-B1D0-7F8498620996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{984DA762-A637-4E54-B1D0-7F8498620996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984DA762-A637-4E54-B1D0-7F8498620996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCD44034-CC30-4A4A-8F92-7DFBC7430EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD44034-CC30-4A4A-8F92-7DFBC7430EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD44034-CC30-4A4A-8F92-7DFBC7430EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD44034-CC30-4A4A-8F92-7DFBC7430EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F63BE10-8D37-41E7-96CE-AC8B055877A3}
+	EndGlobalSection
+EndGlobal
