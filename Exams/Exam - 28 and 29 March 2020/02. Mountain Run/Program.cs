@@ -19,7 +19,9 @@
 //o "No! He was {недостигащите секунди} seconds slower."
 //Резултатът трябва да се форматира до втория знак след десетичната запетая.
 
+
 using System;
+
 
 public class Program
 {
